@@ -11,11 +11,11 @@ redirect_from:
 
 ## 个人简介
 <p align="center">
-  <img src="/images/profile.png" width="360" alt="姬博亚 个人照片">
+  <img src="/images/profile.png" width="200" alt="姬博亚 个人照片">
 </p>
 姬博亚，博士，郑州大学直聘副研究员，硕士生导师。主要研究方向为人工智能、深度学习与生物信息学，聚焦单细胞多组学分析、细胞间通讯推断、图神经网络及其在生物医学领域的落地应用。
 
-以第一作者及通讯作者身份发表SCI及会议论文19篇，其中JCR Q1区论文14篇，中科院1区论文7篇，谷歌学术总引用650余次。申请国家发明专利11项，主持河南省科技攻关项目、湖南省省级研究生创新项目等课题，深度参与多项国家级重点研发计划项目。
+发表SCI，EI及会议论文40余篇，以第一作者及通讯作者的身份发表SCI论文及会议论文19篇,其中JCRQ1区论文14篇，包括Nature Communications(SCI 1 区，IF=15.7), Big Data Mining and Analysis（中科院 1 区，IF=13.6）, Briefings in Bioinformatics (中科院小类1区，IF=9.5)，Journal of Translational Medicine（中科院 2 区 TOP）,IEEE BIBM等顶级期刊/会议
 
 谷歌学术: https://scholar.google.com/citations?hl=zh-CN&user=3WszgQIAAAAJ&view_op=list_works&sortby=pubdate
 
@@ -38,19 +38,26 @@ redirect_from:
 
 1. 河南省科技攻关项目「大模型驱动的病毒-宿主互作全景解析关键技术研究及应用」，2026/01–2028/01，主持
 2. 湖南省省级研究生创新项目「基于图神经网络的单细胞通讯功能事件解析研究」，2023/06–2024/06，主持（已结题）
-3. 科技部重点研发计划「多模态数据融合的全过程疫病应急防控超算平台关键技术研究」，2024/01–2026/12，深度参与
-4. 科技部重点研发计划「前沿生物技术」重点专项「高精度全景转录组深度解析技术」，2022/04–2027/04，深度参与
+3. 科技部重点研发计划「多模态数据融合的全过程疫病应急防控超算平台关键技术研究」，2024/01–2026/12，参与
+4. 科技部重点研发计划「前沿生物技术」重点专项「高精度全景转录组深度解析技术」，2022/04–2027/04，参与
 
 ## 学术服务与兼职
 
-- 期刊任职：*Frontiers in Bioinformatics* 助理编辑
+- 期刊任职：*Frontiers in Bioinformatics* 编辑
 - 期刊审稿：*Nature Communications*、*Briefings in Bioinformatics*、*Bioinformatics*、*IEEE/ACM Transactions on Computational Biology and Bioinformatics*、*Big Data Mining and Analysis*、*BMC Bioinformatics* 等
 - 学术组织：湖南省生物信息学会常务理事；IEEE BIBM 程序委员会成员
 - 学术交流：多次在全国生物信息学大会、IEEE BIBM、ICIC 等国内外会议做口头报告
+- 青年编委:iMeta、Cell Proliferation、Interdisciplinary Sciences: Computational Life Sciences等
 
-%## 荣誉与奖励
+## News
+
+- 20260618: [Frontiers in Bioinformatics特刊征稿, JCR Q1区，IF 3.9](https://www.frontiersin.org/research-topics/79771/rna-rna-interactomics-and-higher-order-rna-architecture)
 
 
+<!--
+## 荣誉与奖励
 
-欢迎对生物信息学、人工智能交叉领域感兴趣的同学报考硕士研究生，也欢迎海内外同行开展学术合作，邮箱: byj@hnu.edu.cn;jiboya@zzu.edu.cn。
+!-->
+
+欢迎对生物信息学、人工智能交叉领域感兴趣的同学报考硕士研究生，也欢迎海内外同行开展学术合作，邮箱: byj@hnu.edu.cn;jiboya@zzu.edu.cn
 
