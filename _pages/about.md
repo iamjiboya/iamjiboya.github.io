@@ -15,9 +15,8 @@ redirect_from:
 </p>
 姬博亚，博士，郑州大学直聘副研究员，硕士生导师。主要研究方向为人工智能、深度学习与生物信息学，聚焦单细胞多组学分析、细胞间通讯推断、图神经网络及其在生物医学领域的落地应用。
 
-发表SCI，EI及会议论文40余篇，以第一作者及通讯作者的身份发表SCI论文及会议论文19篇,其中JCRQ1区论文14篇，包括Nature Communications(SCI 1 区，IF=15.7), Big Data Mining and Analysis（中科院 1 区，IF=13.6）, Briefings in Bioinformatics (中科院小类1区，IF=9.5)，Journal of Translational Medicine（中科院 2 区 TOP）,IEEE BIBM等顶级期刊/会议
+发表SCI，EI及会议论文40余篇，申请及授权13项发明专利, 以第一作者及通讯作者的身份发表SCI论文及会议论文19篇,其中JCRQ1区论文14篇，包括Nature Communications(中科院 1 区，IF=15.7), Big Data Mining and Analysis（中科院 1 区，IF=13.6), National Science Review (中科院1区, IF=18.1), Knowledge-Based Systems (中科院1区，IF=8.0), Briefings in Bioinformatics (中科院小类1区，IF=7.3), IEEE BIBM等顶级期刊/会议, 详见[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=3WszgQIAAAAJ&view_op=list_works&sortby=pubdate)
 
-谷歌学术: https://scholar.google.com/citations?hl=zh-CN&user=3WszgQIAAAAJ&view_op=list_works&sortby=pubdate
 
 ## 研究方向
 
@@ -43,7 +42,7 @@ redirect_from:
 
 ## 学术服务与兼职
 
-- 期刊任职：*Frontiers in Bioinformatics* 编辑
+- 期刊任职：*Frontiers in Bioinformatics* 特刊编辑
 - 期刊审稿：*Nature Communications*、*Briefings in Bioinformatics*、*Bioinformatics*、*IEEE/ACM Transactions on Computational Biology and Bioinformatics*、*Big Data Mining and Analysis*、*BMC Bioinformatics* 等
 - 学术组织：湖南省生物信息学会常务理事；IEEE BIBM 程序委员会成员
 - 学术交流：多次在全国生物信息学大会、IEEE BIBM、ICIC 等国内外会议做口头报告
