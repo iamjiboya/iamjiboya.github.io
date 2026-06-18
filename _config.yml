@@ -28,7 +28,7 @@ author:
   location         : "中国郑州"
   employer         : "郑州大学"
   uri              : # URL
-  byj@hnu.edu.cn;jiboya@zzu.edu.cn            : "byj@hnu.edu.cn;jiboya@zzu.edu.cn" 
+  email            : # byj@hnu.edu.cn;jiboya@zzu.edu.cn
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
