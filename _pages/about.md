@@ -44,7 +44,7 @@ redirect_from:
 
 - 期刊任职：*Frontiers in Bioinformatics* 特刊编辑
 - 期刊审稿：*Nature Communications*、*Briefings in Bioinformatics*、*Bioinformatics*、*IEEE/ACM Transactions on Computational Biology and Bioinformatics*、*Big Data Mining and Analysis*、*BMC Bioinformatics* 等
-- 学术组织：湖南省生物信息学会常务理事；IEEE BIBM 程序委员会成员；CSCIED科技核心评价数据库青年评委
+- 学术组织：湖南省生物信息学会常务理事；IEEE BIBM 程序委员会成员；KDD AI4Science 程序委员会成员; CSCIED科技核心评价数据库青年评委
 - 学术交流：多次在全国生物信息学大会、IEEE BIBM、ICIC 等国内外会议做口头报告
 - 青年编委: iMeta、Cell Proliferation、Interdisciplinary Sciences: Computational Life Sciences等
 
