@@ -23,7 +23,6 @@ redirect_from:
 - 单细胞多组学数据分析与多模态基础模型
 - 空间转录组解析与细胞间通讯推断
 - 图神经网络与生物实体关联预测
-- 人工智能在病毒-宿主互作、疾病诊疗中的应用
 
 
 <!--
@@ -49,8 +48,8 @@ redirect_from:
 
 - 期刊任职：*Frontiers in Bioinformatics* 特刊编辑
 - 期刊审稿：*Nature Communications*、*Briefings in Bioinformatics*、*Bioinformatics*、*IEEE/ACM Transactions on Computational Biology and Bioinformatics*、*Big Data Mining and Analysis*、*BMC Bioinformatics* 等
-- 学术组织：湖南省生物信息学会常务理事；IEEE BIBM 程序委员会成员；KDD AI4Science 程序委员会成员; CSCIED科技核心评价数据库青年评委
-- 学术交流：多次在全国生物信息学大会、IEEE BIBM、ICIC 等国内外会议做口头报告
+- 学术组织：CCF生物信息学专委会委员; 湖南省生物信息学会常务理事；IEEE BIBM 程序委员会成员；KDD AI4Science 程序委员会成员; CSCIED科技核心评价数据库青年评委
+- 学术交流：多次在全国生物信息学大会、CCF生物信息学专委会Bio3New、IEEE BIBM、ICIC 等国内外会议做口头报告
 - 青年编委: iMeta、Phenomics、Cell Proliferation、Interdisciplinary Sciences: Computational Life Sciences等
 
 ## News
