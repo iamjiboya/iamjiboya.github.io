@@ -57,6 +57,7 @@ redirect_from:
 
 - 20260618: [Frontiers in Bioinformatics特刊征稿, JCR Q1区，IF 3.9](https://www.frontiersin.org/research-topics/79771/rna-rna-interactomics-and-higher-order-rna-architecture)
 - 20261010: [International Journal of Molecular Sciences特刊征稿, JCR Q1区，IF 5.6](https://www.mdpi.com/journal/ijms/special_issues/6B0498U365)
+- 20261015: [Frontiers in Genetics特刊征稿, JCR Q1区，IF 3.0](https://www.frontiersin.org/research-topics/87387/computational-approaches-to-microrna-disease-association-prediction)
 
 <!--
 ## 荣誉与奖励
