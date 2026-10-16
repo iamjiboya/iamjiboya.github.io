@@ -15,8 +15,10 @@ redirect_from:
 </p>
 姬博亚，计算机科学与技术专业博士，郑州大学直聘副研究员，硕士生导师，中国计算机学会生物信息学专委会委员，澳门青年学者（全国30人）。主要研究方向为人工智能、深度学习与生物信息学，聚焦单细胞多组学分析、细胞间通讯推断、图神经网络及其在生物医学领域的落地应用。
 
-发表SCI，EI及会议论文40余篇，申请及授权13项发明专利, 以第一作者及通讯作者的身份发表SCI论文及会议论文19篇, 其中JCR Q1区论文14篇，包括Nature Communications(中科院 1 区Top, 第一作者), Big Data Mining and Analysis（中科院 1 区，第一作者), Journal of translational medicine (中科院 1 区Top, 第一作者)，Briefings in Bioinformatics (中科院小类1区，第一作者), IEEE BIBM，National Science Review (中科院1区Top, IF=18.1), Knowledge-Based Systems (中科院1区，IF=8.0)等顶级期刊/会议, 详见[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=3WszgQIAAAAJ&view_op=list_works&sortby=pubdate)
-
+发表SCI，EI及会议论文40余篇，申请及授权13项发明专利, 以第一作者及通讯作者的身份发表SCI论文及会议论文19篇, 其中JCR Q1区论文14篇，包括Nature Communications(中科院 1 区Top, 第一作者), Big Data Mining and Analysis（中科院 1 区，第一作者), Journal of translational medicine (中科院 1 区Top, 第一作者)，Briefings in Bioinformatics (中科院小类1区，第一作者), IEEE BIBM，National Science Review (中科院1区Top, IF=18.1), Knowledge-Based Systems (中科院1区，IF=8.0)等顶级期刊/会议.
+<!--
+, 详见[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=3WszgQIAAAAJ&view_op=list_works&sortby=pubdate)
+!-->
 
 ## 研究方向
 
